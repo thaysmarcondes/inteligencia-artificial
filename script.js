@@ -10,23 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Passar um fim de semana em uma cabana isolada na montanha",
-                afirmacao: "Valoriza momentos de introspecção e tranquilidade
-
-Gosta de natureza, silêncio e conexão com o ambiente
-
-Provavelmente tem um estilo mais reservado ou introvertido
-
-Busca recarregar energias longe da agitação"
+                afirmacao: "Valoriza momentos de introspecção e tranquilidade"
             },
             {
                 texto:  "Aproveitar um fim de semana em uma cidade movimentada com muitos eventos e festas?",
-                afirmacao: "É sociável, extrovertido(a) e adora estar cercado de pessoas
-
-Se sente energizado(a) por ambientes dinâmicos e cheios de estímulo
-
-Gosta de explorar novidades, cultura urbana, gastronomia e vida noturna
-
-Prefere variedade e movimento a sossego e rotina"
+                afirmacao: "É sociável, extrovertido(a) e adora estar cercado de pessoas"
             }    
            
         ]
