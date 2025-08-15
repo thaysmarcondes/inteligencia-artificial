@@ -6,15 +6,27 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Você prefere:",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Passar um fim de semana em uma cabana isolada na montanha",
+                afirmacao: "Valoriza momentos de introspecção e tranquilidade
+
+Gosta de natureza, silêncio e conexão com o ambiente
+
+Provavelmente tem um estilo mais reservado ou introvertido
+
+Busca recarregar energias longe da agitação"
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Aproveitar um fim de semana em uma cidade movimentada com muitos eventos e festas?",
+                afirmacao: "É sociável, extrovertido(a) e adora estar cercado de pessoas
+
+Se sente energizado(a) por ambientes dinâmicos e cheios de estímulo
+
+Gosta de explorar novidades, cultura urbana, gastronomia e vida noturna
+
+Prefere variedade e movimento a sossego e rotina"
             }    
            
         ]
